@@ -1,10 +1,12 @@
 [
   {
     "title": "Express.js",
-    "post_text": "Express.js is an easy way to set up a server with JavaScript. With a few lines of code, you can be on your way to hosting a dynamic webpage."
+    "description": "Express.js is an easy way to set up a server with JavaScript. With a few lines of code, you can be on your way to hosting a dynamic webpage.",
+    "date_created":"12/12/2022"
   },
   {
     "title": "Sessions",
-    "post_text": "When a user logs in, a session can be established using a package such as Express Session. A cookie will be saved on the user computer, authenticating them on the website. Cookies can be set for a limited time or indefinitely."
+    "description": "When a user logs in, a session can be established using a package such as Express Session. A cookie will be saved on the user computer, authenticating them on the website. Cookies can be set for a limited time or indefinitely.",
+    "date_created":"11/11/2022"
   }
 ]
